@@ -3,8 +3,6 @@
 # values set here help configure details of individual pages in the website
 ##########
 
-theme: jekyll-theme-modernist
-
 ##########
 # HOME PAGE
 #
@@ -94,6 +92,8 @@ navbar-background: bg-dark
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
 bootswatch: # leave blank or comment out for plain bootstrap
+
+theme: jekyll-theme-modernist
 
 # THEME FONTS
 base-font-size: 1.2em
